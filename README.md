@@ -1,2 +1,2 @@
 # image-to-text
-extracts image from
+extracts text from image
